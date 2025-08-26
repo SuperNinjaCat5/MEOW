@@ -1,0 +1,4 @@
+paw hello_world():
+    purr("hello_world")
+
+hello_world()
