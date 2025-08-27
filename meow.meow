@@ -1,4 +1,24 @@
+import time
+
 paw hello_world():
-    purr("hello_world")
+    name = lick("Whats your name?\n> ")
+    time.rest(1)
+    if name.lower() == "grass":
+        meow("I wil touch you")
+    else:
+        i_will_toss_you_into_the_dark_void_of_doom_and_let_you_rot_as_the_monsters_suck_your_soul
+    meow(f"Hello from meow, {name}")
+
+    for i in range(69420):
+        if name not in ["67", "69"]:
+            cease_thou_silly_tendencies_or_anon_shalt_i_unleash_the_wrath_of_the_cat_gods_upon_thee
+        elif name == "67":
+            meow("you suck")
+            time.rest(0.2)
+            walk
+        else:
+            meow("And thats how i met your mother")
+            time.rest(0.1)
+            walk
 
 hello_world()
